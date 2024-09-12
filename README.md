@@ -52,3 +52,23 @@ Like-
 ### To build the website We use some import file. Like - 
 
 - InfiniteScroll
+
+### There are many more news categories in navber component. like - 
+
+- Business
+- Entertainment
+- General
+- Health
+- Science
+- Sports
+- Technology
+
+# Snapshots
+
+### Shot 1 : 
+![plot](./src/Img/img1.png)
+
+### Shot 2 :
+![plot](./src/Img/img2.png)
+
+### Thanks for read this.
