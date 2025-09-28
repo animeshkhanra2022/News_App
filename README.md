@@ -47,11 +47,12 @@ Like-
 - News Components
 - navBar Components
 - NewsItem Components
-- Spiner Components
+- Spinner Components
 
 ### To build the website We use some import file. Like - 
 
 - InfiniteScroll
+- React-Top-loading-bar 
 
 ### There are many more news categories in navber component. like - 
 
